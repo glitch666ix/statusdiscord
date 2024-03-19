@@ -1,4 +1,4 @@
-//META{"name":"StatusLoop","source":""}*
+//META{"name":"StatusLoop","displayName":"Status Loop","website":"https://github.com/seu-usuario/seu-repositorio","source":"https://raw.githubusercontent.com/seu-usuario/seu-repositorio/master/StatusLoop.plugin.js"}*
 
 class StatusLoop {
     constructor() {
